@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning].
 
+## 3.2.1b 
+fixed install bug
+setup gradle on github
+
 ## 3.2.1 - 2020-03-30
 
 ### Fixed
